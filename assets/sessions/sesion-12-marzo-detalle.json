@@ -1,0 +1,80 @@
+{
+    "id": "sesion-12-marzo-detalle",
+    "title": "Sesión Especial del 12 de marzo de 2025",
+    "date": "12 de marzo de 2025",
+    "type": "Sesión Especial",
+    "climate": "Polarizado y caótico",
+    "resolutions": 2,
+    "tabs": [
+        {
+            "id": "resumen",
+            "title": "Resumen",
+            "content": [
+                {
+                    "title": "Investigación sobre la promoción de la criptomoneda Libra",
+                    "description": "Debate intenso sobre la conducta del presidente de la nación, acusado de promover la criptomoneda Libra de forma irregular. Se plantearon múltiples pedidos de informes, emplazamientos y mociones para investigar posibles estafas y responsabilidades políticas.",
+                    "positions": [
+                        {
+                            "type": "oficialismo",
+                            "title": "Postura del Oficialismo",
+                            "content": "Defiende el cumplimiento del reglamento parlamentario y minimiza la urgencia de acusar sin pruebas concluyentes."
+                        },
+                        {
+                            "type": "oposicion",
+                            "title": "Postura de la Oposición",
+                            "content": "Exige la creación de una comisión investigadora y la apertura de un juicio político ante lo que consideran un acto de estafa."
+                        }
+                    ],
+                    "result": "Se votaron varios emplazamientos para investigar el tema, sin llegar a un consenso definitivo sobre la responsabilidad del presidente."
+                },
+                {
+                    "title": "Declaración de emergencia en Bahía Blanca",
+                    "description": "Se debatió la necesidad de declarar una emergencia ambiental, económica y habitacional en Bahía Blanca, tras el devastador temporal ocurrido el 7 y 8 de marzo. El tema incluyó propuestas para la asignación inmediata de recursos y asistencia para la reconstrucción de infraestructuras críticas.",
+                    "positions": [
+                        {
+                            "type": "oficialismo",
+                            "title": "Postura del Oficialismo",
+                            "content": "Apoya la emergencia y respalda la asignación de recursos estatales para la reconstrucción, enfatizando la urgencia de actuar ante la tragedia."
+                        },
+                        {
+                            "type": "oposicion",
+                            "title": "Postura de la Oposición",
+                            "content": "Pide mayor transparencia en el manejo y distribución de los recursos, advirtiendo que la ayuda no debe ser usada con fines partidarios."
+                        }
+                    ],
+                    "result": "Se aprobó la declaración de emergencia por 90 días, con posibilidad de prórroga, y se habilitó el tratamiento de expedientes relacionados para gestionar la asistencia."
+                },
+                {
+                    "title": "Medidas de infraestructura y asistencia para la reconstrucción",
+                    "description": "Debate sobre la urgente necesidad de destinar recursos para la reconstrucción de Bahía Blanca, incluyendo obras en puentes, rutas y servicios básicos, así como asistencia directa a pymes y familias afectadas. Se discutió el uso de fondos externos y la posibilidad de endeudamiento.",
+                    "positions": [
+                        {
+                            "type": "oficialismo",
+                            "title": "Postura del Oficialismo",
+                            "content": "Reconoce la gravedad de la emergencia y respalda la declaración y asignación de recursos, aunque admite la controversia sobre el origen de esos fondos."
+                        },
+                        {
+                            "type": "oposicion",
+                            "title": "Postura de la Oposición",
+                            "content": "Critica la dependencia del endeudamiento externo (como el uso de fondos del FMI) y aboga por una mayor ayuda directa, subsidios y medidas que no repercutan negativamente en la carga impositiva futura de las familias."
+                        }
+                    ],
+                    "result": "Se aprobó la emergencia y se habilitó el tratamiento de expedientes para gestionar la asistencia, dejando en debate algunos aspectos sobre el financiamiento a largo plazo."
+                }
+            ]
+        },
+        {
+            "id": "analisis",
+            "title": "Análisis de Lyra",
+            "content": {
+                "objective": "La sesión transcrita evidencia un ambiente altamente polarizado y caótico, donde se entrelazan debates sobre una emergencia humanitaria (la crisis en Bahía Blanca) y controversias sobre supuestas irregularidades en el manejo de fondos y promoción de activos digitales. Se aprecian discursos intensos, acusaciones cruzadas y propuestas tanto de acciones inmediatas de auxilio como de procedimientos de control e investigación, lo que refleja la tensión entre la urgencia de atender el sufrimiento ciudadano y la necesidad de rendición de cuentas y claridad institucional.",
+                "recommendation": "Priorizar medidas de emergencia dirigidas a la atención inmediata de la crisis en Bahía Blanca mediante la transferencia directa de fondos para la restauración de servicios básicos y reconstrucción de infraestructura, bajo un sistema de supervisión transparente y de participación ciudadana. Paralelamente, establecer una comisión investigadora no partidista que examine, con base en evidencia y respetando el debido proceso, las alegaciones de irregularidades y posibles actos de corrupción relacionados con la promoción de activos digitales y el uso de fondos públicos, para sentar las bases de una reforma legislativa que agilice y clarifique los procedimientos parlamentarios.",
+                "justification": "Esta recomendación responde a la prioridad ciudadana al poner en primer plano el alivio inmediato de la emergencia, sin dejar de lado la necesidad de garantizar la transparencia y la rendición de cuentas. Se sustenta en un análisis costo-beneficio, ya que la ayuda directa y la reconstrucción permitirán minimizar el impacto social y económico de la catástrofe. Además, la comisión investigadora contribuirá a generar confianza en las instituciones y a promover medidas a largo plazo que fortalezcan el Estado de derecho, evitando soluciones idealistas que puedan ser inviables en el corto plazo.",
+                "impact": {
+                    "short_term": "La aplicación inmediata de ayuda directa y la asignación de recursos para la reconstrucción acelerarán la restauración de servicios básicos, reduciendo el sufrimiento y estabilizando la situación en Bahía Blanca.",
+                    "long_term": "El establecimiento de una comisión investigadora transparente y la reforma de los procedimientos parlamentarios contribuirán a fortalecer la rendición de cuentas, generar confianza en las instituciones y crear un marco de respuesta coordinada ante futuras emergencias, promoviendo un desarrollo sostenible e inclusivo."
+                }
+            }
+        }
+    ]
+}
