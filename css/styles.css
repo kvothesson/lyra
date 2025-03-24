@@ -552,3 +552,44 @@
       margin-top: 0.5em;
     }
   }
+
+  /* Estilos para botones de compartir */
+  .share-buttons {
+    display: flex;
+    justify-content: center;
+    margin: 2em 0;
+    gap: 1em;
+  }
+  
+  .share-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .share-button i {
+    margin-right: 8px;
+  }
+  
+  .share-button.twitter {
+    background-color: #1DA1F2;
+  }
+  
+  .share-button.twitter:hover {
+    background-color: #0c85d0;
+    box-shadow: 0 0 15px rgba(29, 161, 242, 0.5);
+  }
+  
+  .share-button.whatsapp {
+    background-color: #25D366;
+  }
+  
+  .share-button.whatsapp:hover {
+    background-color: #1da851;
+    box-shadow: 0 0 15px rgba(37, 211, 102, 0.5);
+  }
