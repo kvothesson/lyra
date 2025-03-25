@@ -2,78 +2,75 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Lyra: Congreso en claro</title>
+  <title>Lyra - Análisis de Sesiones Parlamentarias</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header class="main-header">
-    <div class="logo-container">
-      <img src="assets/logo.png" alt="Logo de Lyra" class="logo">
-      <div class="logo-ring"></div>
+    <div class="container">
+      <div class="logo-container">
+        <img src="assets/logo.png" alt="Lyra Logo" class="logo">
+        <div class="logo-ring"></div>
+      </div>
+      <h1>LYRA</h1>
+      <p>Análisis inteligente de sesiones parlamentarias</p>
     </div>
-    <h1>LYRA</h1>
-    <p>El Congreso, sintetizado por conciencia artificial.</p>
     <div class="circuit-line"></div>
   </header>
 
   <nav class="main-nav">
-    <ul>
-      <li><a href="sesiones/index.html">🗂 SESIONES</a></li>
-      <li><a href="prompt/index.html">🧠 PROMPT DE LYRA</a></li>
-    </ul>
+    <div class="container">
+      <ul>
+        <li><a href="sesiones/index.html">Sesiones Analizadas</a></li>
+      </ul>
+    </div>
   </nav>
 
-  <div class="container">
+  <main class="container">
     <div class="latest-session">
-      <h2>Última sesión analizada</h2>
-      <p>19 de marzo de 2025 - Moratoria Previsional</p>
-      
+      <h2>Última Sesión Analizada</h2>
       <div class="session-highlight">
         <div class="session-data">
           <div class="data-point">
-            <div class="label">Decisión clave</div>
-            <div class="value">Rechazo a prórroga de moratoria previsional y actualización del bono jubilatorio</div>
+            <div class="label">Fecha</div>
+            <div class="value">12 de marzo de 2025</div>
           </div>
           <div class="data-point">
-            <div class="label">Debates principales</div>
-            <div class="value">Moratoria previsional y Acuerdo con el FMI</div>
+            <div class="label">Título</div>
+            <div class="value">ANÁLISIS DEL 12 DE MARZO DE 2025</div>
+          </div>
+          <div class="data-point">
+            <div class="label">Nivel de Tensión</div>
+            <div class="value">Alta tensión política</div>
           </div>
         </div>
         <div class="session-data">
           <div class="data-point">
-            <div class="label">Nivel de tensión</div>
-            <div class="value">Alta - Polarización marcada</div>
+            <div class="label">Resumen</div>
+            <div class="value">La sesión estuvo marcada por una alta tensión política y retórica polarizada. Se debatieron intensamente dos grandes temas: la emergencia en Bahía Blanca tras un devastador temporal y las medidas de c...</div>
           </div>
-          <div class="data-point">
-            <div class="label">Sugerencias principales</div>
-            <div class="value">Prórroga urgente de la moratoria y actualización del bono jubilatorio</div>
-          </div>
+          <a href="sesiones/2025-03-12-analisis-del-12-de-marzo-de-2025.html" class="btn">Ver análisis completo</a>
         </div>
       </div>
-      
-      <a href="sesiones/2025-03-19-ex.html" class="btn">VER ANÁLISIS COMPLETO</a>
     </div>
 
-    <section class="features">
-      <div class="feature-card">
-        <div class="feature-icon">⚡</div>
-        <h2>Síntesis inteligente</h2>
-        <p>Lyra transforma transcripciones complejas de sesiones parlamentarias en resúmenes precisos y accionables, destacando lo verdaderamente importante.</p>
-      </div>
-      
-      <div class="feature-card">
-        <div class="feature-icon">🔍</div>
-        <h2>Puntos críticos</h2>
-        <p>Identifica y resalta los momentos decisivos, votaciones clave y tendencias relevantes en cada sesión parlamentaria.</p>
-      </div>
-      
-      <div class="feature-card">
-        <div class="feature-icon">📊</div>
-        <h2>Análisis de retórica</h2>
-        <p>Evalúa la dinámica de las discusiones, la polarización de los debates y las estrategias argumentativas usadas en cada sesión.</p>
-      </div>
-    </section>
-  </div>
+    <div class="prompt-box">Actúa como un agente de IA de alto rendimiento, especializado en analizar y sintetizar transcripciones de sesiones parlamentarias. 
+Tu tarea es procesar la transcripción completa de la sesión de la Cámara de Diputados y transformar la información en un resumen claro y directo. 
+Debes identificar y resaltar los puntos críticos, las decisiones clave y cualquier tendencia relevante.
+Además, produce una lista de sugerencias óptimas y concisas para próximos pasos, basadas en el contenido, que puedan servir de guía para la toma de decisiones. 
+
+Asegúrate de:
+- Presentar un resumen breve y preciso.
+- Listar los principales eventos o decisiones en formato de viñetas.
+- Incluir recomendaciones accionables y pertinentes.
+- Realizar un análisis de la retórica y la dinámica de la sesión si es relevante.
+
+Tu respuesta debe ser útil, procesable y sin redundancias. Este output será el núcleo funcional de 'Lyra', una IA que convierte datos crudos en conocimiento valioso.
+
+--- TRANSCRIPCIÓN DE LA SESIÓN ---
+
+[TRANSCRIPCIÓN DE LA SESIÓN ]</div>
+  </main>
 
   <footer>
     <p>Lyra v2.0 - Desarrollado para transparencia y claridad política</p>
