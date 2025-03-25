@@ -1,5 +1,60 @@
 [
-    {
+  {
+      "fecha": "25 de marzo de 2025",
+      "titulo": "Crisis de obra pública y deterioro de la vialidad nacional",
+      "nivelTension": "Alto",
+      "resumen": "La sesión se centró en denunciar la paralización de obras públicas, la subejecución presupuestaria y el deterioro de la vialidad nacional, afectando la seguridad, el empleo y el desarrollo económico. Los legisladores criticaron la inacción y corrupción del gobierno, y propusieron medidas urgentes para recuperar la infraestructura vial.",
+      "temasPrincipales": [
+        "Paralización de obras públicas: Suspensión de proyectos críticos que impacta negativamente la infraestructura y la seguridad vial.",
+        "Subejecución presupuestaria: Fondos asignados que no se invierten completamente, generando deudas y deterioro de la red vial.",
+        "Impacto en el empleo y seguridad: Riesgo de despidos masivos y aumento de accidentes por falta de mantenimiento.",
+        "Rendición de cuentas: Necesidad de interpelar a funcionarios responsables para esclarecer la ineficiencia y posibles actos de corrupción.",
+        "Colaboración interprovincial: Propuesta de mesas de trabajo entre el gobierno nacional y las provincias para desarrollar un plan integral de infraestructura."
+      ],
+      "decisionesClave": [
+        "Presentación del expediente 595: Llevar este expediente al pleno para reactivar y regularizar las obras públicas detenidas.",
+        "Interpelación a funcionarios: Exigir explicaciones y un plan de acción concreto a los responsables de la mala gestión en obra pública y vialidad.",
+        "Establecimiento de mecanismos de fiscalización: Crear comisiones interparlamentarias que supervisen el uso de fondos y denuncien irregularidades."
+      ],
+      "recomendaciones": [
+        "Realizar interpelaciones formales a los funcionarios del gobierno nacional para obtener un plan transparente y accionable.",
+        "Aprobar y dar seguimiento al expediente 595 para asegurar la continuidad y regularización de las obras públicas.",
+        "Crear comisiones interparlamentarias y mecanismos de rendición de cuentas que fiscalicen el uso correcto de los recursos.",
+        "Impulsar reformas legislativas que garanticen el financiamiento y mantenimiento adecuado de la vialidad nacional.",
+        "Fomentar mesas de trabajo interprovinciales que integren a gobiernos, sindicatos y sector privado en un plan integral de infraestructura vial.",
+        "Revisar y optimizar el sistema de concesiones y peajes para proteger la seguridad vial y los derechos laborales de los trabajadores."
+      ],
+      "analisisRetorica": "El lenguaje empleado en la sesión fue combativo, directo y emocional, combinando datos técnicos con apelaciones a la seguridad y al bienestar ciudadano. Este tono refleja una alta tensión y frustración ante la inacción y la corrupción, evidenciando la polarización entre los legisladores y funcionarios del gobierno."
+  }, 
+  {
+      "fecha": "20 de marzo de 2025",
+      "titulo": "Emergencia en Discapacidad y Revisión Normativa",
+      "nivelTension": "Alta",
+      "resumen": "La sesión se centró en la urgente necesidad de declarar la emergencia en materia de discapacidad, corregir la terminología retrógrada en la Resolución 187 y actualizar las normativas y financiamiento para mejorar el acceso a pensiones, servicios esenciales y la inclusión laboral.",
+      "temasPrincipales": [
+        "Emergencia en Discapacidad: Problemas en financiamiento, prestaciones básicas, y acceso a servicios esenciales para personas con discapacidad.",
+        "Controversia en la Resolución 187: Críticas al retroceso en el concepto de pensión por invalidez y uso de términos despectivos.",
+        "Actualización Normativa: Necesidad de revisar leyes obsoletas (ej. ley de hace más de 40 años) y adaptar el marco legal a las necesidades actuales.",
+        "Inclusión Laboral: Dificultades y barreras para la integración laboral, incluso dentro de la misma Cámara de Diputados.",
+        "Coordinación Interinstitucional: Propuesta de reuniones y solicitudes de informes a organismos como la ANDIS y asuntos constitucionales."
+      ],
+      "decisionesClave": [
+        "Declaración de Emergencia: Aprobación del proyecto 7861 de 2024 para declarar la emergencia en discapacidad hasta el 31 de diciembre de 2027.",
+        "Solicitudes de Informe: Aprobación de proyectos (ej. 0064 y 0091 de 2025) para que el Ejecutivo informe sobre la actualización de pensiones y condiciones de otorgamiento de prestaciones.",
+        "Conmemoraciones y Reconocimientos: Aprobación de proyectos para conmemorar el Día Mundial del Autismo y del Síndrome de Down, enfatizando el reconocimiento social.",
+        "Propuesta de Actualización de Prestaciones: Solicitud para actualizar los montos de las prestaciones básicas de acuerdo con la ley vigente (Ley 24901)."
+      ],
+      "recomendaciones": [
+        "Corrección Inmediata de la Resolución 187: Rectificar la terminología utilizada y actualizar el marco de pensiones para evitar retrocesos.",
+        "Convocar Sesiones Interinstitucionales: Organizar reuniones con representantes de la ANDIS y otros organismos para coordinar estrategias y monitorear avances.",
+        "Implementar un Sistema de Seguimiento: Establecer mecanismos transparentes para la actualización y control de las pensiones y prestaciones.",
+        "Reordenamiento Presupuestario: Ajustar la asignación de recursos para garantizar la financiación necesaria sin aumentar la carga impositiva.",
+        "Impulsar Programas de Capacitación: Promover entrenamientos para funcionarios y empleados, mejorando el trato y la inclusión de personas con discapacidad.",
+        "Revisión de Normativas Internas en la Cámara: Analizar y ajustar políticas laborales y de inclusión para el personal con discapacidad."
+      ],
+      "analisisRetorica": "El debate se caracterizó por un tono apasionado y crítico, en el que se combinaron argumentos técnicos con apelaciones emocionales. Se destacó una convergencia bipartidista y se hizo hincapié en la responsabilidad ética y social del Estado, denunciando la inercia burocrática y la falta de respuesta ante un problema de larga data."
+  },  
+  {
       "fecha": "19 de marzo de 2025",
       "titulo": "ANÁLISIS DE SESIÓN: MORATORIA PREVISIONAL",
       "nivelTension": "Alta tensión política",
